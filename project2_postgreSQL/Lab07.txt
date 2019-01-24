@@ -1,0 +1,47 @@
+LAB 07
+
+A - Average age from table actor
+
+	42.6000000000000000
+
+B - Number of different countries in which actor from "The Lego Batman Movie" were born
+	
+	2
+
+C - Find the number of actors with brown eye color
+
+	1
+
+D - Number of movies in which James McAvoy was playing
+
+	4
+
+E - min, avg and max budget of each type of movie
+
+	"Horror"; 100000000;100000000.000000000000;100000000
+	"Action"; 85000000;125000000.000000000000;165000000
+	"Triller"; 100000000;100000000.000000000000;100000000
+	"Comedy"; 20000000;20000000.000000000000;20000000
+	"Adventure"; 160000000;179333333.33333333;200000000
+	"Crime"; 4000000;4000000.000000000000;4000000
+	"Animation"; 80000000;80000000.000000000000;80000000
+
+F - Average rating for each movie which have director born in Florida or with a brown eye color.
+
+	"Assassin's Creed"; 5.0000000000000000
+	"John Wick: Chapter 2"; 9.0000000000000000
+	"Split"; 9.0000000000000000
+	"The Lego Batman Movie"; 8.0000000000000000
+	"X-Men: Apocalypse"; 4.0000000000000000
+	"X-Men: Days of Future Past"; 6.0000000000000000
+
+G - Movies that have actors born in two diffrent countries.
+
+	"The Lego Batman Movie"; 2
+
+H - Movies with at least two award nomination
+
+	"The Lego Batman Movie"; 2
+	"X-Men: Apocalypse"; 2
+	"Doctor Strange"; 2
+	"X-Men: Days of Future Past"; 2

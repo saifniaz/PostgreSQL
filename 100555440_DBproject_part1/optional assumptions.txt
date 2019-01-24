@@ -1,0 +1,2 @@
+1. Change the phone number type to Varchar, since using integer caused the 
+   phone numbers to be out of range.

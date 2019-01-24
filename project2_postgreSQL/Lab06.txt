@@ -1,0 +1,80 @@
+LAB 06
+
+A - Listed all director born in USA
+
+	"Chris"; "Mckay"; "USA"; "Florida"
+	"Richie"; "keen"; "USA"; "Illinois"
+	"Chad"; "Stahelski"; "USA"; "Massachusetts"
+	"D.J"; "Caruso"; "USA"; "Connecticut"
+	"Bryan"; "Singer"; "USA"; "New York"
+	"Scott"; "Derrickson"; "USA"; "Colorado"
+	"Justin"; "Kurzel"; "USA"; "Florida"
+
+B - Movies directed by Bryan Singer
+
+	"X-Men: Apocalypse"; "PG-13"; "2016-05-27"; "Bryan"; "Singer"
+	"X-Men: Days of Future Past"; "PG-13"; "2014-05-23"; "Bryan"; "Singer"
+	"X-Men: First Class"; "PG-13"; "2011-05-25"; "Bryan"; "Singer"
+
+C - Actors who played in movies which cost more than $100M in production
+
+ "James";"McAvoy";"X-Men: Days of Future Past";200000000;270000000.00;22978000000.00;11822000000.00;186000000.00;202000000.00
+ "James";"McAvoy";"X-Men: First Class";160000000;216000000.00;18382400000.00;9457600000.00;148800000.00;161600000.00
+ "James";"McAvoy";"X-Men: Apocalypse";178000000;240300000.00;20450420000.00;10521580000.00;165540000.00;179780000.00
+ "Benedict";"Cumberbatch";"Doctor Strange";165000000;222750000.00;18956850000.00;9753150000.00;153450000.00;166650000.00
+ "Michael";"Fassbender";"Assassin's Creed";125000000;168750000.00;14361250000.00;7388750000.00;116250000.00;126250000.00
+ "Michael";"Fassbender";"X-Men: Apocalypse";178000000;240300000.00;20450420000.00;10521580000.00;165540000.00;179780000.00
+ "Marion";"Cotillard";"Assassin's Creed";125000000;168750000.00;14361250000.00;7388750000.00;116250000.00;126250000.00
+
+D - All director with surnmae starting with letter "S" or "Y"
+
+	"03"; "Chad"; "Stahelski"
+	"05"; "Night"; "Shyamalan"
+	"06"; "Bryan"; "Singer"
+	"10"; "Zhang"; "Yimou"
+
+E - All action movies in which there is a playing actor who is greater than 40
+
+	"Doctor Strange"; "Benedict"; "Cumberbatch"; 1976
+	"Assassin's Creed"; "Michael"; "Fassbender"; 1977
+	"Assassin's Creed"; "Marion"; "Cotillard"; 1975
+
+F - All the pair of actors who have NULL in eye color,
+
+	"Benedict"; "James"; ""; ""
+	"Benedict"; "Marion"; ""; ""	
+	"Benedict"; "Michael"; ""; ""
+	"Benedict"; "Michael"; ""; ""
+	"Benedict"; "Rosario"; ""; ""
+	"Benedict"; "Ice"; ""; ""
+	"Benedict"; "Keanu"; ""; ""
+	"Benedict"; "Vin"; ""; ""
+	"Ice"; "Michael"; ""; ""
+	"Ice"; "Marion"; ""; ""
+	"Ice"; "Michael"; ""; ""
+	"Ice"; "Rosario"; ""; ""
+	"Ice"; "Keanu"; ""; ""
+	"Ice"; "Vin"; ""; ""
+	"Ice"; "James"; "";""
+	"James"; "Michael";"";""
+	"James"; "Rosario"; ""; ""
+	"James"; "Keanu"; ""; ""
+	"James"; "Vin"; ""; ""
+	"James"; "Michael"; ""; ""
+	"James"; "Marion"; ""; ""
+	"Keanu"; "Michael"; ""; ""	
+	"Keanu"; "Rosario"; ""; ""
+	"Keanu"; "Vin"; ""; ""
+	"Keanu"; "Michael"; ""; ""
+	"Keanu"; "Marion"; ""; ""
+	"Marion"; "Michael"; ""; ""
+	"Marion"; "Michael"; ""; ""
+	"Marion"; "Rosario"; ""; ""
+	"Marion"; "Vin"; ""; ""
+	"Michael"; "Vin"; ""; ""
+	"Michael"; "Rosario"; ""; ""
+	"Michael"; "Vin"; ""; ""
+	"Michael"; "Rosario"; ""; ""
+	"Rosario"; "Vin"; ""; ""
+
+
